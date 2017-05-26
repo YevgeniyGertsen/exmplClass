@@ -1,0 +1,2 @@
+# exmplClass
+test GIT
